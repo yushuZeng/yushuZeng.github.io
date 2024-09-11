@@ -46,43 +46,28 @@ organizations:
   #- icon: academicons/orcid
   #  url: https://orcid.org/
 
-interests:
-  - I employ econometrics, machine learning, and game theory to study
-  - Operations-Marketing Interface 
-  - Platform Operations
-  - Socially Responsible Operations 
-  - Economics of Information, Digitization, and Artificial Intelligence
-  - I choose the most appropriate methodology according to the research problems.
+#
+#interests:
+#  - I employ econometrics, machine learning, and game theory to study
+ # - Operations-Marketing Interface 
+ # - Platform Operations
+ # - Socially Responsible Operations 
+ # - Economics of Information, Digitization, and Artificial Intelligence
+ # - I choose the most appropriate methodology according to the research problems.
 
-education:
-  - area: PhD in Empirical Operations Management
-    institution: Hong Kong University of Science and Technology
-    date_start: 2019-08-15
-    date_end: 2025-06-30
-   # summary: |
-   #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    #button:
-   #   text: 'Read Thesis'
-   #   url: 'https://example.com'
- # - area: MEng Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-  #  date_start: 2016-01-01
-  #  date_end: 2020-12-31
- #   summary: |
-  #    GPA: 3.8/4.0
-  #    Courses included:
-  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc in Mnagement Science
-    institution: University of Science and Technology of China
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-  - area: Summer Visiting in Information System
-    institution: University of Washington
-    date_start: 2018-07-01
-    date_end: 2018-10-01
-
+#education:
+ # - area: PhD in Empirical Operations Management
+ #   institution: Hong Kong University of Science and Technology
+ #   date_start: 2019-08-15
+ #   date_end: 2025-06-30
+ # - area: BSc in Mnagement Science
+ #   institution: University of Science and Technology of China
+ #   date_start: 2015-09-01
+ #   date_end: 2019-06-30
+#  - area: Summer Visiting in Information System
+ #   institution: University of Washington
+ #   date_start: 2018-07-01
+ #   date_end: 2018-10-01
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -154,10 +139,22 @@ languages:
 #    icon: datacamp
 #    summary: |
  #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-#---
+---
 
 ## About Me
 
 I am a Ph.D. student of industrial engineering and decision analytics at the Hong Kong University of Science and Technology. I employ econometrics, machine learning, and game theory to study research problems in operations-marketing interface, platform operations, socially responsible operations, economics of information, digitization, and artificial intelligence. I choose the most appropriate methodology according to the research problems. 
 
----
+education:
+  - area: PhD in Empirical Operations Management
+    institution: Hong Kong University of Science and Technology
+    date_start: 2019-08-15
+    date_end: 2025-06-30
+  - area: BSc in Mnagement Science
+    institution: University of Science and Technology of China
+    date_start: 2015-09-01
+    date_end: 2019-06-30
+  - area: Summer Visiting in Information System
+    institution: University of Washington
+    date_start: 2018-07-01
+    date_end: 2018-10-01
