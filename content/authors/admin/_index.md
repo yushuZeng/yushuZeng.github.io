@@ -27,7 +27,7 @@ organizations:
   - name: HKUST
   #  url: https://openai.com/
 
-# Social network links
+#Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 #profiles:
   #- icon: at-symbol
@@ -35,12 +35,12 @@ organizations:
    # label: E-mail Me
   #- icon: brands/x
  #   url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/yushu.zeng/
+  #- icon: brands/instagram
+ #   url: https://www.instagram.com/yushu.zeng/
  # - icon: brands/github
  #   url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yushu-zeng-047823193/
+ #  - icon: brands/linkedin 
+  #  url: https://www.linkedin.com/in/yushu-zeng-047823193/
   #- icon: academicons/google-scholar
   #  url: https://scholar.google.com/
   #- icon: academicons/orcid
