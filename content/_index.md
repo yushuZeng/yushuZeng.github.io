@@ -43,16 +43,19 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
+      title: Education
+      subtitle: 'PhD in Empirical Operations Management'
+      text: |-
+        Hong Kong University of Science and Technology 2019-2025
+      subtitle: 'BSc in Mnagement Science'
+      text: |-
+        University of Science and Technology of China 2015-2019
+      subtitle: 'Summer Visiting in Information System'
+      text: |-
+        University of Washington 2018
     design:
-      view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     content:
       title: Recent Publications
