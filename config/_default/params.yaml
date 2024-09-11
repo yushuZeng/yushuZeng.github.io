@@ -29,10 +29,10 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: false
+    enable: true
     blox: "navbar"
-    fixed_to_top: false
-    show_search: false
+    fixed_to_top: true
+    show_search: true
     show_theme_chooser: false
     logo:
       text: "Yushu Zeng"
