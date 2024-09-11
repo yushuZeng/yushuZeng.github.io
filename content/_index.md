@@ -34,13 +34,13 @@ sections:
     content:
       title: 'Education'
       text: |-
-        PhD in Empirical Operations Management 
+        PhD in Empirical Operations Management <br>
         Hong Kong University of Science and Technology (2019-2025)
 
-        BSc in Mnagement Science 
+        BSc in Mnagement Science <br>
         University of Science and Technology of China (2015-2019)
 
-        Summer Visiting in Information System 
+        Summer Visiting in Information System <br>
         University of Washington (2018)
     design:
       columns: '1'

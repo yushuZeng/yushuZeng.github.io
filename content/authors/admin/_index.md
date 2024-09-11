@@ -135,4 +135,4 @@ languages:
 
 ## About Me
 
-I am a Ph.D. student of industrial engineering and decision analytics at the Hong Kong University of Science and Technology. I employ econometrics, machine learning, and game theory to study research problems in operations-marketing interface, platform operations, socially responsible operations, economics of information, digitization, and artificial intelligence. I choose the most appropriate methodology according to the research problems. Please reach out to collaborate 😃
+I am a Ph.D. student of industrial engineering and decision analytics at the Hong Kong University of Science and Technology. My supervisors are Ying-Ju Chen and Xin Wang. I employ econometrics, machine learning, and game theory to study research problems in operations-marketing interface, platform operations, socially responsible operations, economics of information, digitization, and artificial intelligence. I choose the most appropriate methodology according to the research problems. Please reach out to collaborate! 😃
