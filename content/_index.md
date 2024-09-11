@@ -42,18 +42,17 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: collection
+  - block: markdown
     content:
-      title: Education
+      title: 'Education'
       text: |-
-        PhD in Empirical Operations Management
-        Hong Kong University of Science and Technology 2019-2025
-        BSc in Mnagement Science
-        University of Science and Technology of China 2015-2019
-        Summer Visiting in Information System
-        University of Washington 2018
+        PhD in Empirical Operations Management, Hong Kong University of Science and Technology (2019-2025)
+
+        BSc in Mnagement Science, University of Science and Technology of China (2015-2019)
+        
+        Summer Visiting in Information System, University of Washington (2018)
     design:
-      columns: 1
+      columns: '1'
   - block: collection
     content:
       title: Recent Publications
