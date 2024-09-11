@@ -47,7 +47,7 @@ organizations:
   #  url: https://orcid.org/
 
 interests:
-  - I employ econometrics, machine learning, and game theory to study:
+  - I employ econometrics, machine learning, and game theory to study
   - Operations-Marketing Interface 
   - Platform Operations
   - Socially Responsible Operations 
