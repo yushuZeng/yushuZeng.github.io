@@ -98,19 +98,7 @@ languages:
     percent: 80
 
 
-education:
-  - area: PhD in Empirical Operations Management
-    institution: Hong Kong University of Science and Technology
-    date_start: 2019-08-15
-    date_end: 2025-06-30
-  - area: BSc in Mnagement Science
-    institution: University of Science and Technology of China
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-  - area: Summer Visiting in Information System
-    institution: University of Washington
-    date_start: 2018-07-01
-    date_end: 2018-10-01
+
 
 
 # Awards.
