@@ -34,26 +34,62 @@ sections:
     content:
       title: 'Education'
       text: |-
-        PhD in Empirical Operations Management <br>
+        **PhD in Empirical Operations Management** <br>
         Hong Kong University of Science and Technology (2019-2025)
 
-        BSc in Mnagement Science <br>
+        **BSc in Mnagement Science** <br>
         University of Science and Technology of China (2015-2019)
 
-        Summer Visiting in Information System <br>
+        **Summer Visiting in Information System** <br>
         University of Washington (2018)
     design:
       columns: '1'
-  - block: collection
+  - block: markdown
     content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+      title: 'Working Papers'
+      text: |-
+        **Attribute and Quality Information Disclosure on Digital Content Platforms: Theory and Empirical Evidence** <br>
+        with Hu Huang, Ying-Ju Chen, Xin Wang. Submitted to MSOM. Job Market Paper. <br>
+        **Details**: This paper theoretically and empirically explores information disclosure strategies in the digital content platform. Our results indicate that firms with higher vertical quality are less likely to disclose attribute information to consumers, irrespective of the availability of quality information.
+
+        **Mergers and Product Repositioning: Theory and Empirical Evidence** <br>
+        with Soo-Haeng Cho, Zijun Shi, Xin Wang. Ready for submission. <br>
+        **Details**: This paper theoretically and empirically evaluates the merger effects of consumer welfare after product repositioning. A merger between two firms in the high-end markets is possible to improve consumer surplus, whereas a merger between two firms in the low-end markets always hurts consumers.
+
+        **Text-Based Measurement and Analysis of Firm-Level Price Expectations from Earnings Call Transcripts** <br>
+        with Yunning Zhao, Ying-Ju Chen. Ready for submission. <br>
+        **Details**: This paper utilizes the textual analysis method (BERT) to develop a paradigm for measuring firms’ expectations and construct a novel firm-level indicator of firms’ price expectations based on over 400, 000 quarterly earnings conference-call transcripts.
     design:
-      view: citation
+      columns: '1'
+  - block: markdown
+    content:
+      title: 'Work in Process'
+      text: |-
+        As a researcher in empirical operations management, I have established many strong connections with industry and academia. Typically, it takes several years to await the outcomes of an empirical research project. Patience, enthusiasm, and a touch of luck are indispensable companions on this academic journey. I list some of my ongoing work here.
+
+        **Selling Virtual Currency in Free-to-Play Mobile Games: Theory and Empirical Evidence** <br>
+        with Ying-Ju Chen.
+        **Details**: This paper theoretically and empirically examines the optimal virtual currency strategy of the free-to-play mobile game design scenario. The data is obtained through a game data agency who provides everyday investigations over apps across different platforms.
+
+        **AI in Fundraising: Predictive Modeling in Charitable Giving** <br>
+        with Ying-Ju Chen, Dejie Kong.
+        **Details**: This paper aims to help prosocial organizations to find their optimal fundraising strategies. The data is obtained through a prosocial data platform who provides services to a large number of NGOs.
+
+        **Optimal Pricing and Promotion Strategies for an AI Startup Offering Software-Hardware Emotion Solutions** <br>
+        with Ying-Ju Chen, Jingyang Wu.
+        **Details**: This paper aims to help AI startup in their beginning period. The data is obtained from an AI startup company.
+    design:
+      columns: '1'
+ # - block: collection
+  # content:
+   #   title: Working Papers
+    #  text: ""
+     # filters:
+      #  folders:
+       #   - publication
+        #exclude_featured: false
+   # design:
+    #  view: citation
 #  - block: collection
  #   id: talks
   #  content:
