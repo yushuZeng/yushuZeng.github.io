@@ -84,7 +84,7 @@ sections:
     content:
       title: 'Teaching'
       text: |-
-        **Course I have served as a teachin assistant:** <br>
+        **Course I have served as a teaching assistant:** <br>
         Optimizing Decisions for Personal and Business Development (Undergraduate Spring 2023) <br>
         Industrial Engineering and Decision Analytics (Undergraduate Fall 2020, Fall 2021) <br>
         Engineering Management (Undergraduate Spring 2019) <br>
@@ -92,7 +92,7 @@ sections:
         Operation/Production Management (Master Spring 2021) <br>
         Global Supply Chain Management (Master Fall 2022) 
 
-        **My duties:** Give weekly tutorial, assignment and exam design, lecture assistant, grading work, office hour. Students said that I am friendly and helpful. ❤️
+        **My duties:** Give weekly tutorial, assignment and exam design, lecture assistant, grading work, office hour. Students said that I am friendly and helpful. <span class="red-heart">❤️</span>
     design:
       columns: '1'
   - block: markdown
@@ -102,13 +102,16 @@ sections:
         I love hiking, traveling, reading, sharing, and so on. Hello, the fantastic world!
 
         **Hiking** <br>
-        ![Local Image](hiking.png)
+     #   ![Local Image](hiking.png)
+        <img src="hiking.png" alt="Local Image">
 
         **Traveling** <br>
-        ![Local Image](traveling.png)
+     #   ![Local Image](traveling.png)
+        <img src="traveling.png" alt="Local Image">
 
         **Sharing** <br>
-        ![Local Image](sharing.png)
+    #    ![Local Image](sharing.png)
+        <img src="sharing.png" alt="Local Image">
     design:
       columns: '1'
  # - block: collection
