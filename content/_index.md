@@ -102,15 +102,12 @@ sections:
         I love hiking, traveling, reading, sharing, and so on. Hello, the fantastic world!
 
         **Hiking** <br>
-     #   ![Local Image](hiking.png)
         <img src="hiking.png" alt="Local Image">
 
         **Traveling** <br>
-     #   ![Local Image](traveling.png)
         <img src="traveling.png" alt="Local Image">
 
         **Sharing** <br>
-    #    ![Local Image](sharing.png)
         <img src="sharing.png" alt="Local Image">
     design:
       columns: '1'
