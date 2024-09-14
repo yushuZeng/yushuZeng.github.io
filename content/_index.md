@@ -68,16 +68,47 @@ sections:
         As a researcher in empirical operations management, I have established many strong connections with industry and academia. Typically, it takes several years to await the outcomes of an empirical research project. Patience, enthusiasm, and a touch of luck are indispensable companions on this academic journey. I list some of my ongoing work here.
 
         **Selling Virtual Currency in Free-to-Play Mobile Games: Theory and Empirical Evidence** <br>
-        with Ying-Ju Chen.
+        with Ying-Ju Chen.<br>
         **Details**: This paper theoretically and empirically examines the optimal virtual currency strategy of the free-to-play mobile game design scenario. The data is obtained through a game data agency who provides everyday investigations over apps across different platforms.
 
         **AI in Fundraising: Predictive Modeling in Charitable Giving** <br>
-        with Ying-Ju Chen, Dejie Kong.
+        with Ying-Ju Chen, Dejie Kong.<br>
         **Details**: This paper aims to help prosocial organizations to find their optimal fundraising strategies. The data is obtained through a prosocial data platform who provides services to a large number of NGOs.
 
         **Optimal Pricing and Promotion Strategies for an AI Startup Offering Software-Hardware Emotion Solutions** <br>
-        with Ying-Ju Chen, Jingyang Wu.
+        with Ying-Ju Chen, Jingyang Wu.<br>
         **Details**: This paper aims to help AI startup in their beginning period. The data is obtained from an AI startup company.
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: 'Teaching'
+      text: |-
+        **Course I have served as a teachin assistant:** <br>
+        Optimizing Decisions for Personal and Business Development (Undergraduate Spring 2023) <br>
+        Industrial Engineering and Decision Analytics (Undergraduate Fall 2020, Fall 2021) <br>
+        Engineering Management (Undergraduate Spring 2019) <br>
+        Service Engineering and Management (Undergraduate Spring 2020, Spring 2021, Fall 2022) <br>
+        Operation/Production Management (Master Spring 2021) <br>
+        Global Supply Chain Management (Master Fall 2022) 
+
+        **My duties:** Give weekly tutorial, assignment and exam design, lecture assistant, grading work, office hour. Students said that I am friendly and helpful. ❤️
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: 'Hobbies'
+      text: |-
+        I love hiking, traveling, reading, sharing, and so on. Hello, the fantastic world!
+
+        **Hiking** <br>
+        ![Local Image](hiking.png)
+
+        **Traveling** <br>
+        ![Local Image](traveling.png)
+
+        **Sharing** <br>
+        ![Local Image](sharing.png)
     design:
       columns: '1'
  # - block: collection
