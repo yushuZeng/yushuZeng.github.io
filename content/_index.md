@@ -92,7 +92,7 @@ sections:
         Operation/Production Management (Master Spring 2021) <br>
         Global Supply Chain Management (Master Fall 2022) 
 
-        **My duties:** Give weekly tutorial, assignment and exam design, lecture assistant, grading work, office hour. Students said that I am friendly and helpful. <span class="red-heart">❤️</span>
+        **My duties:** Give weekly tutorial, assignment and exam design, lecture assistant, grading work, office hour. Students said that I am friendly and helpful. <span class="red-heart" style="color: red;">❤️</span> &hearts;
     design:
       columns: '1'
   - block: markdown
@@ -102,13 +102,13 @@ sections:
         I love hiking, traveling, reading, sharing, and so on. Hello, the fantastic world!
 
         **Hiking** <br>
-        <img src="hiking.png" alt="Local Image">
+        <img src="hiking.jpg" alt="Local Image">
 
         **Traveling** <br>
-        <img src="traveling.png" alt="Local Image">
+        <img src="traveling.jpg" alt="Local Image">
 
         **Sharing** <br>
-        <img src="sharing.png" alt="Local Image">
+        <img src="sharing.jpg" alt="Local Image">
     design:
       columns: '1'
  # - block: collection
