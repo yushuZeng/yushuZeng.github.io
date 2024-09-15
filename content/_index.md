@@ -53,7 +53,7 @@ sections:
         I hope my research could contribute positively to the world.
 
         **Methodologies** <br>
-        Econometrics; Machine Learning; Game Theory. <br>
+        Applied Econometrics; Machine learning; Large Language Models; Game theory. <br>
         I choose the most appropriate methodology according to the research problems.
     design:
       columns: '1'
