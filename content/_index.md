@@ -50,6 +50,7 @@ sections:
       text: |-
         **Applications** <br>
         Operations-Marketing Interface; Platform Operations; Socially Responsible Operations; Economics of Information, Digitization, and Artificial Intelligence.
+        I hope my research could contribute positively to the world.
 
         **Methodologies** <br>
         Econometrics; Machine Learning; Game Theory. <br>
@@ -104,7 +105,7 @@ sections:
         Operation/Production Management (Master Spring 2021) <br>
         Global Supply Chain Management (Master Fall 2022) 
 
-        **My duties:** Give weekly tutorial, assignment and exam design, lecture assistant, grading work, office hour. Students said that I am friendly and helpful. <span class="red-heart" style="color: red;">❤️</span> 
+        **My duties:** Give weekly tutorial, assignment and exam design, lecture assistant, grading work, office hour. Students said that I was friendly and helpful. <span class="red-heart" style="color: red;">❤️</span> 
     design:
       columns: '1'
   - block: markdown
@@ -113,10 +114,11 @@ sections:
       text: |-
         I love hiking, traveling, reading, and so on. 
 
-        **Hiking** <br> Hello, the fantastic world! :)
+        **Hiking** <br> 
         <img src="hiking.jpg" alt="Local Image">
+        Hello, the fantastic world! :)
 
-        **Traveling** <br> Sometimes I can learn the precious stories of local people. I treasure them a lot.
+        **Traveling** <br> At times, I can learn the invaluable stories of local people. I treasure them a lot.
         <img src="traveling.jpg" alt="Local Image">
 #
    #     **Sharing** <br>
