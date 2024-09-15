@@ -49,7 +49,7 @@ sections:
       title: 'Research Interest'
       text: |-
         **Applications** <br>
-        Operations-Marketing Interface; Platform Operations; Socially Responsible Operations; Economics of Information, Digitization, and Artificial Intelligence.
+        Operations-Marketing Interface; Platform Operations; Socially Responsible Operations; Economics of Information, Digitization, and Artificial Intelligence.<br>
         I hope my research could contribute positively to the world.
 
         **Methodologies** <br>
