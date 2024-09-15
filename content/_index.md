@@ -30,18 +30,30 @@ sections:
           size: cover
           position: center
           parallax: false
+#  - block: markdown
+#    content:
+#      title: 'Education'
+#      text: |-
+#        **PhD in Empirical Operations Management** <br>
+#        Hong Kong University of Science and Technology (2019-2025)
+#
+ #       **BSc in Mnagement Science** <br>
+  #      University of Science and Technology of China (2015-2019)
+#I employ econometrics, machine learning, and game theory to study research problems in operations-marketing interface, platform operations, socially responsible operations, economics of information, digitization, and artificial intelligence. I choose the most appropriate methodology according to the research problems.
+ #       **Summer Visiting in Information System** <br>
+  #      University of Washington (2018)
+   # design:
+    #  columns: '1'
   - block: markdown
     content:
-      title: 'Education'
+      title: 'Research Interest'
       text: |-
-        **PhD in Empirical Operations Management** <br>
-        Hong Kong University of Science and Technology (2019-2025)
+        **Applications** <br>
+        Operations-Marketing Interface; Platform Operations; Socially Responsible Operations; Economics of Information, Digitization, and Artificial Intelligence.
 
-        **BSc in Mnagement Science** <br>
-        University of Science and Technology of China (2015-2019)
-
-        **Summer Visiting in Information System** <br>
-        University of Washington (2018)
+        **Methodologies** <br>
+        Econometrics; Machine Learning; Game Theory. <br>
+        I choose the most appropriate methodology according to the research problems.
     design:
       columns: '1'
   - block: markdown
@@ -84,7 +96,7 @@ sections:
     content:
       title: 'Teaching'
       text: |-
-        **Course I have served as a teaching assistant:** <br>
+        **Courses I have served as a teaching assistant:** <br>
         Optimizing Decisions for Personal and Business Development (Undergraduate Spring 2023) <br>
         Industrial Engineering and Decision Analytics (Undergraduate Fall 2020, Fall 2021) <br>
         Engineering Management (Undergraduate Spring 2019) <br>
