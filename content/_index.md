@@ -111,16 +111,16 @@ sections:
     content:
       title: 'Hobbies'
       text: |-
-        I love hiking, traveling, reading, sharing, and so on. 
+        I love hiking, traveling, reading, and so on. 
 
         **Hiking** <br> Hello, the fantastic world! :)
         <img src="hiking.jpg" alt="Local Image">
 
         **Traveling** <br> Sometimes I can learn the precious stories of local people. I treasure them a lot.
         <img src="traveling.jpg" alt="Local Image">
-
-        **Sharing** <br>
-        <img src="sharing.jpg" alt="Local Image">
+#
+   #     **Sharing** <br>
+   #     <img src="sharing.jpg" alt="Local Image">
     design:
       columns: '1'
  # - block: collection
