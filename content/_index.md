@@ -66,11 +66,11 @@ sections:
         **Details**: This paper theoretically and empirically explores information disclosure strategies in the digital content platform. Our results indicate that firms with higher vertical quality are less likely to disclose attribute information to consumers, irrespective of the availability of quality information.
 
         **Mergers and Product Repositioning: Theory and Empirical Evidence** <br>
-        with Soo-Haeng Cho, Zijun Shi, Xin Wang. Ready for submission. <br>
+        with Soo-Haeng Cho, Zijun Shi, Xin Wang. Ready for submission to MSOM. <br>
         **Details**: This paper theoretically and empirically evaluates the merger effects of consumer welfare after product repositioning. A merger between two firms in the high-end markets is possible to improve consumer surplus, whereas a merger between two firms in the low-end markets always hurts consumers.
 
         **Text-Based Measurement and Analysis of Firm-Level Price Expectations from Earnings Call Transcripts** <br>
-        with Yunning Zhao, Ying-Ju Chen. Ready for submission. <br>
+        with Yunning Zhao, Ying-Ju Chen. Submitted to MS. <br>
         **Details**: This paper utilizes the textual analysis method (BERT) to develop a paradigm for measuring firms’ expectations and construct a novel firm-level indicator of firms’ price expectations based on over 400, 000 quarterly earnings conference-call transcripts.
     design:
       columns: '1'
