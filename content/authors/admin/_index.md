@@ -135,7 +135,7 @@ languages:
 
 ## About Me
 
-I am a Ph.D. student of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Ying-Ju Chen and Prof. Xin Wang. Before that, I received my B.S. in Management Science from the University of Science and Technology of China (USTC) in 2019.
+I am a Ph.D. candidate of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Ying-Ju Chen and Prof. Xin Wang. Before that, I received my B.Sc. in Management Science from the University of Science and Technology of China (USTC) in 2019.
 Looking forward to future interactions! 😃
 
 
