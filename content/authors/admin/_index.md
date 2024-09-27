@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -135,8 +135,10 @@ languages:
 
 ## About Me
 
-I am a Ph.D. candidate of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Ying-Ju Chen and Prof. Xin Wang. Before that, I received my B.Sc. in Management Science from the University of Science and Technology of China (USTC) in 2019.
+I am currently a Ph.D. candidate of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Ying-Ju Chen and Prof. Xin Wang. Before that, I earned my B.Sc. in Management Science from the University of Science and Technology of China (USTC) in 2019.
 Looking forward to future interactions! 😃
+
+I will be on the 2024-25 academic job market.
 
 
       
