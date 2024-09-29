@@ -24,7 +24,7 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: HKUST
+  - name: Hong Kong University of Science and Technology
   #  url: https://openai.com/
 
 #Social network links
