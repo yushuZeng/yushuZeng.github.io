@@ -108,18 +108,18 @@ sections:
         **My duties:** Give weekly tutorial, assignment and exam design, lecture assistant, grading work, office hour. Students said that I was friendly and helpful. <span class="red-heart" style="color: red;">❤️</span> 
     design:
       columns: '1'
-  - block: markdown
-    content:
-      title: 'Hobbies'
-      text: |-
-        I love hiking, traveling, reading, and so on. 
+ # - block: markdown
+  #  content:
+   #   title: 'Hobbies'
+    #  text: |-
+     #   I love hiking, traveling, reading, and so on. 
 
-        **Hiking** <br> 
-        <img src="hiking.jpg" alt="Local Image">
-        Hello, the fantastic world! :)
+      #  **Hiking** <br> 
+       # <img src="hiking.jpg" alt="Local Image">
+     #   Hello, the fantastic world! :)
 
-        **Traveling** <br> At times, I can learn the invaluable stories of local people. I treasure them a lot.
-        <img src="traveling.jpg" alt="Local Image">
+      #  **Traveling** <br> At times, I can learn the invaluable stories of local people. I treasure them a lot.
+       # <img src="traveling.jpg" alt="Local Image">
 #
    #     **Sharing** <br>
    #     <img src="sharing.jpg" alt="Local Image">
