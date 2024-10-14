@@ -140,7 +140,7 @@ languages:
 I am currently a Ph.D. candidate of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST), where I am fortunate to be advised by Prof. Ying-Ju Chen and Prof. Xin Wang. Before that, I earned my B.Sc. in Management Science from the University of Science and Technology of China (USTC) in 2019. 
 I am interested in empirical operations management. If you have any questions that I can help with, please feel free to reach out via email at yzengao@connect.ust.hk. 😃
 
-I am in the job market during 2024-2025 academic year! I will be presenting at INFORMS 2024 on Wednesday, Oct 23, 9:30 AM - 10:45 AM in Summit – 338.
+I am in the job market during 2024-2025 academic year! I will be presenting at INFORMS 2024 on Wednesday, Oct 23, 8:45 AM - 9:00 AM in Summit – 336.
 
 
 
