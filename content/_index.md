@@ -66,7 +66,7 @@ sections:
         **Details**: This paper theoretically and empirically explores information disclosure strategies in the digital content platform. Our results indicate that firms with higher vertical quality are less likely to disclose attribute information to consumers, irrespective of the availability of quality information.
 
         **Text-Based Measurement and Analysis of Firm-Level Price Expectations from Earnings Call Transcripts** <br>
-        with Yunning Zhao, Ying-Ju Chen. Under review in Management Science. <br>
+        with Yunning Zhao, Ying-Ju Chen, Shenghai Zhou. Under review in Management Science. <br>
         **Details**: This paper utilizes the textual analysis method (BERT) to develop a paradigm for measuring firms’ expectations and construct a novel firm-level indicator of firms’ price expectations based on over 400, 000 quarterly earnings conference-call transcripts.
 
         **Mergers and Product Repositioning: Theory and Empirical Evidence** <br>
