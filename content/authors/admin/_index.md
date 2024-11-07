@@ -132,6 +132,7 @@ languages:
 #    summary: |
  #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
  # Looking forward to future interactions! 😃
+ # I will be presenting at INFORMS 2024 on Wednesday, Oct 23, 8:45 AM - 9:00 AM in Summit – 336.
 ---
 
 ## About Me
@@ -141,7 +142,7 @@ I am currently a Ph.D. candidate of Industrial Engineering and Decision Analytic
 I am interested in empirical operations management. If you have any questions that I can help with, please feel free to reach out via email at yzengao@connect.ust.hk. 😃
 
 I am in the job market during 2024-2025 academic year! 
-# I will be presenting at INFORMS 2024 on Wednesday, Oct 23, 8:45 AM - 9:00 AM in Summit – 336.
+
 
 
 
