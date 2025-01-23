@@ -70,7 +70,7 @@ sections:
         **Details**: This paper theoretically and empirically evaluates the merger effects of consumer welfare after product repositioning. A merger between two firms in the high-end markets is possible to improve consumer surplus, whereas a merger between two firms in the low-end markets always hurts consumers.
 
         **Text-Based Measurement and Analysis of Firm-Level Price Expectations from Earnings Call Transcripts** <br>
-        with Yunning Zhao, Ying-Ju Chen, Shenghai Zhou.  <br>
+        with Yunning Zhao, Ying-Ju Chen.  <br>
         **Details**: This paper utilizes the textual analysis method (BERT) to develop a paradigm for measuring firms’ expectations and construct a novel firm-level indicator of firms’ price expectations based on over 400, 000 quarterly earnings conference-call transcripts.
 
 
