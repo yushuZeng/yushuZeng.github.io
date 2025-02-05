@@ -51,12 +51,10 @@ jobs:
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-    - name: Check public directory
-      run: ls -la ./public  # 检查 public 目录的内容
+        echo "Checking if public directory exists..."
+        ls -la ./public  # 检查 public 目录是否存在
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
-    - name: Check public directory2
-      run: ls -la ./public  # 检查 public 目录的内容
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
