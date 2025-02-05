@@ -107,7 +107,7 @@ sections:
         Operation/Production Management (Master Spring 2021) <br>
         Global Supply Chain Management (Master Fall 2022) 
 
-        **My duties:** Give weekly tutorial, assignment and exam design, lecture assistant, grading work, office hour. Students said that I was friendly and helpful. <span class="red-heart" style="color: red;">❤️</span> 
+        **My duties:** Deliver weekly tutorial, assignment and exam design, lecture assistant, grading work, office hour. Students said that I was friendly and helpful. <span class="red-heart" style="color: red;">❤️</span> 
     design:
       columns: '1'
  # - block: markdown
